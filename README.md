@@ -7,6 +7,7 @@ The purpose of this project is to make automatic statistical extraction of phara
 #Requirements
 
 * Apache Solr
+* Java Parser Combinator Library 
 
 #Milestones
 
